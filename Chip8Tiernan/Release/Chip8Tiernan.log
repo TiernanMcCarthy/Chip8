@@ -1,0 +1,12 @@
+﻿  Chip8.cpp
+f:\chip8tiernan\chip8tiernan\chip8.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\chip8tiernan\chip8tiernan\chip8.cpp(91): warning C4474: 'printf' : too many arguments passed for format string
+  f:\chip8tiernan\chip8tiernan\chip8.cpp(91): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+f:\chip8tiernan\chip8tiernan\chip8.cpp(236): warning C4552: '+': result of expression not used
+f:\chip8tiernan\chip8tiernan\chip8.cpp(317): warning C4244: '=': conversion from 'short' to 'unsigned char', possible loss of data
+  Main.cpp
+  Source.cpp
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Chip8Tiernan.vcxproj -> F:\Chip8Tiernan\Release\Chip8Tiernan.exe
