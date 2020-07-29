@@ -1,0 +1,10 @@
+﻿  Core.cpp
+C:\Users\Tiern\Desktop\Emulator\SFMLTEST\Core.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tiern\Desktop\Emulator\SFMLTEST\Core.cpp(483,69): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Tiern\Desktop\Emulator\SFMLTEST\Core.cpp(483,69): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Tiern\Desktop\Emulator\SFMLTEST\Core.cpp(512,27): warning C4474: 'printf' : too many arguments passed for format string
+  Source.cpp
+C:\Users\Tiern\Desktop\Emulator\SFMLTEST\Core.cpp(512,27): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating Code...
+C:\Users\Tiern\Desktop\Emulator\SFMLTEST\Source.cpp(135,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFMLTEST.vcxproj -> C:\Users\Tiern\Desktop\Emulator\Debug\Chip8.exe
